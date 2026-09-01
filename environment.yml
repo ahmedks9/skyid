@@ -1,0 +1,14 @@
+name: skyid
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - opencv
+  - astropy
+  - pip
+  - pip:
+      - requests
