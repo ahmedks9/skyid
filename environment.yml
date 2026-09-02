@@ -12,3 +12,5 @@ dependencies:
   - pip
   - pip:
       - requests
+      - python-dotenv
+      - Pillow
